@@ -1,4 +1,4 @@
-## This is the public repository for ButterflyMX Android SDK
+## ButterflyMX Android SDK
 
 To use SDK please check the guide: https://github.com/runslikebutter/android-demo-app/wiki/Getting-Started
 
